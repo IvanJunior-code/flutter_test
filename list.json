@@ -1,5 +1,5 @@
 {
-   "data":[
+   "data":
      {
       "codigo": "123456",
       "tipo": "Desk",
@@ -16,5 +16,5 @@
        "seial": "DEF123",
        "status": "Sucata"
      }
-  ]
+  
 }
