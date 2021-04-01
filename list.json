@@ -1,0 +1,20 @@
+{
+   "data":[
+     {
+      "codigo": "123456",
+      "tipo": "Desk",
+      "marca": "Dell",
+      "modelo": "Opt 7",
+      "serial": "ABC123",
+      "status": "Disponível"
+     },
+     {
+       "codigo": "654321",
+       "tipo": "Note",
+       "marca": "Lenovo",
+       "modelo": "T420",
+       "seial": "DEF123",
+       "status": "Sucata"
+     }
+   ]
+}
